@@ -1,0 +1,20 @@
+.modal.modal-wide .modal-dialog {
+  width: 90%;
+}
+.modal-wide .modal-body {
+  overflow-y: auto;
+}
+
+/* irrelevant styling */
+body { text-align: center; }
+body p { 
+  max-width: 400px; 
+  margin: 20px auto; 
+}
+#tallModal .modal-body p { margin-bottom: 900px }
+
+/* Initial Style of the page Custon_Questions */
+
+/* Centraliza o nome dos campos */
+.move {text-align:center;}.t_resposta{text-align:center;}#cat{text-align:center;}#perg{text-align:center;}#type{text-align:center;}
+
